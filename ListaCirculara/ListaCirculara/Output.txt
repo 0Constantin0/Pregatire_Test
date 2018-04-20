@@ -1,0 +1,25 @@
+nrMAt = a01 
+Nume = Mavrodin
+Facultate = CSIE
+Media = 10.00 
+
+nrMAt = a02 
+Nume = Mariana
+Facultate = CSIE
+Media = 9.50 
+
+nrMAt = a03 
+Nume = George
+Facultate = ASD
+Media = 7.00 
+
+nrMAt = a04 
+Nume = Catalin
+Facultate = Csie
+Media = 9.00 
+
+nrMAt = a05 
+Nume = Ioana
+Facultate = csie
+Media = 8.00 
+
